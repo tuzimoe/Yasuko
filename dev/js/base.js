@@ -281,13 +281,13 @@ var General = {
                 var d = document,
                     s = d.createElement('script');
 
-                s.src = 'https://luoleiorg.disqus.com/embed.js';
+                s.src = 'https://tuziblog.disqus.com/embed.js';
 
                 s.setAttribute('data-timestamp', +new Date());
                 // (d.head || d.body).appendChild(s);
 
                 // if (General.viewWidth > 960) {
-                loadJS('https://luoleiorg.disqus.com/embed.js', function() {
+                loadJS('https://ltuziblog.disqus.com/embed.js', function() {
                         $('.author-image').addClass('comment-loaded');
                         DISQUS.reset({
                             reload: true,
