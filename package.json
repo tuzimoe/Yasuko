@@ -9,7 +9,7 @@
     "dateformat": "^1.0.12",
     "del": "^2.1.0",
     "gulp": "^3.8.10",
-    "gulp-autoprefixer": "^3.1.0",
+    "gulp-autoprefixer": "^7.0.1",
     "gulp-compass": "^2.0.3",
     "gulp-concat": "^2.4.3",
     "gulp-csscomb": "^3.0.6",
